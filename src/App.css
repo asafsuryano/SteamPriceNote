@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.games-list{
+  text-align: left;
+}
+.search-games{
+  text-align: right;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
